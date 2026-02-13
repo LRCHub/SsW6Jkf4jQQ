@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "YOLO",
+  "base_artist": "aespa",
+  "createdAt": "2026-02-13T21:08:49.095394Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yolo - You Only Live Once",
+      "artist": "Harris Jayaraj feat. Shail Hada, Ramya NSK, MC Vickey & Eden",
+      "has_synced": false,
+      "path": "select/01_Yolo_-_You_Only_Live_Once_Harris_Jayaraj_feat._Shail_Hada,_Ramya_NSK,_MC_Vickey_&_Eden.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yolo",
+      "artist": "Harris Jayaraj",
+      "has_synced": false,
+      "path": "select/02_Yolo_Harris_Jayaraj.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Yolo",
+      "artist": "The Lonely Island feat. Adam Levine & Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/03_Yolo_The_Lonely_Island_feat._Adam_Levine_&_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "YOLO",
+      "artist": "The Lonely Island/Adam Levine/Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/04_YOLO_The_Lonely_Island_Adam_Levine_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "YOLO (feat. Adam Lecine & Kendrick Lamar)",
+      "artist": "The Lonely Island",
+      "has_synced": true,
+      "path": "select/05_YOLO_(feat._Adam_Lecine_&_Kendrick_Lamar)_The_Lonely_Island.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blah Blah (feat. Yolo & Sisu)",
+      "artist": "Puya",
+      "has_synced": true,
+      "path": "select/06_Blah_Blah_(feat._Yolo_&_Sisu)_Puya.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blah blah feat. Yolo si Sisu",
+      "artist": "Puya",
+      "has_synced": true,
+      "path": "select/07_Blah_blah_feat._Yolo_si_Sisu_Puya.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Yolo",
+      "artist": "Smash Into Pieces",
+      "has_synced": true,
+      "path": "select/08_Yolo_Smash_Into_Pieces.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Yolo - You Only Live Once",
+      "artist": "Harris Jayaraj",
+      "has_synced": false,
+      "path": "select/09_Yolo_-_You_Only_Live_Once_Harris_Jayaraj.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "YOLO",
+      "artist": "Jacob Banks",
+      "has_synced": true,
+      "path": "select/10_YOLO_Jacob_Banks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "YOLO",
+      "artist": "GIMS",
+      "has_synced": true,
+      "path": "select/11_YOLO_GIMS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "YOLO (feat. Gola Gianni)",
+      "artist": "Yung Hurn",
+      "has_synced": false,
+      "path": "select/12_YOLO_(feat._Gola_Gianni)_Yung_Hurn.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "YOLO",
+      "artist": "BAND-MAID",
+      "has_synced": false,
+      "path": "select/13_YOLO_BAND-MAID.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Yolo",
+      "artist": "The Lonely Island",
+      "has_synced": true,
+      "path": "select/14_Yolo_The_Lonely_Island.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "YOLO (ft. Adam Levine & Kendrick Lamar)",
+      "artist": "The Lonely Island",
+      "has_synced": true,
+      "path": "select/15_YOLO_(ft._Adam_Levine_&_Kendrick_Lamar)_The_Lonely_Island.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "YOLO",
+      "artist": "The Lonely Island\u0000Adam Levine\u0000Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/16_YOLO_The_Lonely_Island\u0000Adam_Levine\u0000Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "YOLO",
+      "artist": "BAND-MAID",
+      "has_synced": true,
+      "path": "select/17_YOLO_BAND-MAID.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "#Yølø",
+      "artist": "Finsterforst",
+      "has_synced": true,
+      "path": "select/18_Yølø_Finsterforst.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YOLO",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_YOLO_aespa.txt"
+    }
+  ]
+}
